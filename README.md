@@ -1,0 +1,1 @@
+The project encapsulates the need of quick and enhanced learning to amplify user’s knowledge of the respective subject. The basic principle on which the application is based is Spaced Repetition: increasing the intervals of time between subsequently learned materials in order to enhance grasping power.
