@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<solid android:color="#42a5f5"/>
+<corners android:radius="10dip"/>
+</shape><!-- From: file:/Users/sarthakalang/Desktop/learnit%20final/LearnIt%203/app/src/main/res/drawable/custombutton3.xml -->

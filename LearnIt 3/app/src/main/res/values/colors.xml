@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom">#ff2a31</color>
+    <color name="custom2">#277634</color>
+    <color name="color1">#FAFAFA</color>
+    <color name="color2">#BBDEFB</color>
+    <color name="color3">#D1C4E9</color>
+    <color name="color4">#E7E9D1</color>
+    <color name="color7">#e91e63</color>
+    <color name="cardBackground">#f0f6f6</color>
+    <color name="cardSelectBackground">#d7db6204</color>
+    <color name="color5">#303F9F</color>
+    <color name="color6">#3f51b5</color>
+    <color name="actionbutton">#aed581</color>
+    <color name="background">#673AB7</color>
+    <color name= "textcolor">#515050</color>
+</resources>
